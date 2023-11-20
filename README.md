@@ -14,6 +14,6 @@ There are 7.629 images for training and 1.070 images for validation and ten clas
 - Submarine
 - Tug
 
-For this classification problem, we are going to use AlexNet, a well known convolutional neural network. We'll use Pytorch library to work on this project. 
+For this classification problem, we are going to use AlexNet, a well known convolutional neural network. We'll use Pytorch library to work on this project. Among other good metrics, we can we can highlight the high accuracy of around 93% on validation set.
 
 The dataset is provided in KAGGLE, in the link https://www.kaggle.com/datasets/oleksandershevchenko/ship-classification-dataset/data .
